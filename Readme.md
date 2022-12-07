@@ -1,1 +1,1 @@
-https://chriss350.github.io/goit-js-hw-07/index.html
+https://chriss350.github.io/goit-js-hw-07/
